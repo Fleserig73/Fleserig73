@@ -20,7 +20,7 @@
 - Languages spoken:  <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/pl.svg"> (native) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/us.svg"> (B2+ uncertified) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/de.svg"> (B1 uncertified)
 
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width = "500"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
 
 <h3>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px"/>
@@ -29,9 +29,10 @@
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Fleserig73&theme=dark&background=000000"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fleserig73&layout=compact&theme=vision-friendly-dark"/>
 </p>
-
 
 <h3>
   <img src="https://media.giphy.com/media/oubxuLxxAtSdiv1F4G/giphy.gif" width="30px"/>
