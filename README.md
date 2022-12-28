@@ -3,7 +3,7 @@
 
 <h1 align="center">
   Hi, I'm Eryk
-  <img src="https://user-images.githubusercontent.com/88104726/209578006-02bc1c75-a87c-43e8-9d4b-8ece39023957.png" width="40px"/>
+  <img src="https://user-images.githubusercontent.com/88104726/209783755-7482881c-2418-47d4-b474-ccb6c630af8f.png" width="40px"/>
 </h1>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=fleserig73&style=for-the-badge&color=blue" alt=""/>
